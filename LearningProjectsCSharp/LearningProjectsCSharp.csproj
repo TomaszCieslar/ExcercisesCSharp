@@ -7,6 +7,10 @@
 
   <ItemGroup>
     <Folder Include="Linq\" />
+    <Folder Include="Delegates\" />
+    <Folder Include="AdditionalLibraries\" />
+    <Folder Include="DynamicMemory\" />
+    <Folder Include="OOP\" />
     <Folder Include="Other\" />
   </ItemGroup>
 
