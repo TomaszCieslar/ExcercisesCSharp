@@ -11,7 +11,6 @@
     <Folder Include="AdditionalLibraries\" />
     <Folder Include="DynamicMemory\" />
     <Folder Include="OOP\" />
-    <Folder Include="Other\" />
   </ItemGroup>
 
 </Project>
