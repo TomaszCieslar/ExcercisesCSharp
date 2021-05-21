@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace LearningProjectsCSharp.AsynchronousProgramming
 {
-    public class AsynchronousProgramming_Threads
+    public class AsynchronousProgrammingThreads
     {
         public void Main()
         {
