@@ -28,8 +28,8 @@ namespace LearningProjectsCSharp.DynamicMemory
     class Pila
     {
         int valor_actual;
-        int cantidad_valores;
-        int[] valores_pila;
+        readonly int cantidad_valores;
+        readonly int[] valores_pila;
 
         public Pila(int cantidad_valores)
         {
@@ -59,3 +59,4 @@ namespace LearningProjectsCSharp.DynamicMemory
             return 0;
         }
     }
+}

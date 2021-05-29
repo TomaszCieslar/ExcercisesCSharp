@@ -19,10 +19,11 @@ namespace LearningProjectsCSharp.Other
 
         }
 
-        //Available in c# 8
-        public class Adevice
-        {
-            public async IAsyncEnumerable
-        }
+    }
+
+    //Available in c# 8
+    public class Adevice
+    {
+        //public async IAsyncEnumerable;
     }
 }
