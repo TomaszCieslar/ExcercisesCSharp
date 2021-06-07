@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Linq\" />
     <Folder Include="Delegates\" />
   </ItemGroup>
 
