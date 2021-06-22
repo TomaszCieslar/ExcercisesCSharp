@@ -3,7 +3,7 @@ using System.Collections.Concurrent;
 
 namespace LearningProjectsCSharp.AsynchronousProgramming
 {
-    public class AsynchronousProgramming_ConcurrentCollection2
+    public class AsynchronousProgrammingConcurrentCollection2
     {
         public void Main()
         {
